@@ -28,7 +28,7 @@ There are four directions that a player can win in Connect 4: vertical, horizont
 | Piece in center column | + 3 |
 | Opponent piece in center column | - 2 |
 
-
+![Connect 4 Minimax Execution](/assets/Connect4/Connect4GIF.gif)
 
 
 #### MUDAC
