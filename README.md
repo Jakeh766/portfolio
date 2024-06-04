@@ -16,6 +16,7 @@ Developed a Connect 4 game using Python and implemented the minimax algorithm wi
 | Expert | 6 |
 
 There are four directions that a player can win in Connect 4: vertical, horizontal, positive-sloped diagonal, and negative-sloped diagonal. If a player gets at least 4 pieces in a row in any of these directions, they win the game. To evaluate a board position, the program segments the board into windows of length 4 (Each window contains 4 holes) in each direction. Then the Connect 4 AI follows a heuristic (rule of thumb) scoring approach on each window that has been fine-tuned by trial and error. In addition to scoring each window, the number of pieces in the center column is also scored. The center column is the most key column on the board because in the center you have the most options to branch out and get 4 in a row. The table below outlines the heuristic scoring approach:
+
 | Condition | Score |
 | --- | --- |
 | Four in a row | + &infin; |
