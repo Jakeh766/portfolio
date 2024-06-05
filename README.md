@@ -11,12 +11,6 @@ I developed a Connect 4 game in Python, incorporating the minimax algorithm with
 
 Further explanation and visual demonstrations can be found at my GitHub repository along with the code: [Github Repository](https://github.com/Jakeh766/Connect4)
 
-#### MUDAC
-
-#### Capstone Project
-
-#### Data Derby
-
 #### Handwritten Data Processing Application
 
 I created this application for my Dad's farming business. The application processes scanned images of breeding and farrowing records to generate comprehensive reports. Users start by inputting relevant dates and group numbers and then uploading the breeding and farrowing record files. The program converts these files to PNG format and uses the AWS Textract API to extract tabular data, which is then converted into Pandas DataFrames for cleaning. Errors are highlighted in red for manual correction. After corrections, the program merges the Dataframes and generates a PDF report. Users can review the report and export the group's data to an Excel database. This efficient workflow ensures accurate and organized record-keeping for breeding and farrowing operations.
@@ -33,4 +27,12 @@ assisting first-generation, disabled, and low-income college students
 - Developed practice exercises to improve understanding and retention, resulting in positive student feedback
 
 ### Volunteering and Leadership
-[BEST BOARD Blog Post](https://blog.mnsu.edu/csu/best-board-s24-jake-hauser-leads-march-book-drive-as-a-new-maverick-tradition/)
+
+#### Mavs in Action
+I served as the secretary for Mavs in Action, a student volunteer club at MNSU, from August 2023 - May 2024. During that time, I logged over **150** volunteer service hours, helped plan and lead weekly volunteering activities, and started a new campus-wide children's book drive initiative. I started planning the book drive in the fall of 2023. I first reached out to local community organizations to see who would accept children's books as donations. Then once I had organizations who were interested and expressed a need for books, I reached out to student groups on campus as well as faculty to start promoting the book drive. Along with the Mavs in Action leadership board, I helped organize a coordinated social media campaign to raise awareness of the book drive. I also helped manage the budget and logistics of storing and delivering the books. We ended up collecting over **300** books. As a result of my leadership efforts, I was selected to be on the Spring 2024 BEST Board.
+
+Media Publications:
+[BEST Board Blog Post](https://blog.mnsu.edu/csu/best-board-s24-jake-hauser-leads-march-book-drive-as-a-new-maverick-tradition/)
+[Student Newspaper Article about Mavs in Action](https://www.msureporter.com/2022/10/18/mavs-in-action-connects-with-mankato-community/)
+
+
