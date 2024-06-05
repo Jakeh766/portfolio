@@ -7,7 +7,7 @@
 #### Connect 4 Game
 [Play Connect 4 Game](https://jakeh766.github.io/portfolio/assets/Connect4/build/web/index.html)
 
-Developed a Connect 4 game using Python and implemented the minimax algorithm with alpha-beta pruning to maximize efficiency. The game has three different levels: Beginner, Intermediate, and Expert. The difference between levels is the depth of moves that the computer looks ahead. For example, a depth of two means that the computer searches and evaluates each possible board state two moves ahead. Below is a table showing the search depth of each level:
+I developed a Connect 4 game using Python and implemented the minimax algorithm with alpha-beta pruning to maximize efficiency. The game has three different levels: Beginner, Intermediate, and Expert. Each level differs in the depth of moves the computer evaluates. For example, a depth of two means that the computer searches and evaluates each possible board state two moves ahead. Below is a table showing the search depth of each level:
 
 | Level | Depth |
 | --- | --- |
@@ -15,7 +15,7 @@ Developed a Connect 4 game using Python and implemented the minimax algorithm wi
 | Intermediate | 4 |
 | Expert | 6 |
 
-There are four directions that a player can win in Connect 4: vertical, horizontal, positive-sloped diagonal, and negative-sloped diagonal. If a player gets at least 4 pieces in a row in any of these directions, they win the game. To evaluate a board position, the program segments the board into windows of length 4 (Each window contains 4 holes) in each direction. Then the Connect 4 AI follows a heuristic (rule of thumb) scoring approach on each window that has been fine-tuned by trial and error. In addition to scoring each window, the number of pieces in the center column is also scored. The center column is the most key column on the board because in the center you have the most options to branch out and get 4 in a row. The table below outlines the heuristic scoring approach:
+There are four directions that a player can win in Connect 4: vertical, horizontal, positive-sloped diagonal, and negative-sloped diagonal. To evaluate a board position, the program segments the board into windows of length 4 (Each window contains 4 holes) in each direction. Then the Connect 4 AI follows a heuristic scoring approach for each window that has been fine-tuned by trial and error. Additionally, the number of pieces in the center column is also scored, as the center column provides the most branching options to get 4 in a row. The table below outlines the heuristic scoring approach:
 
 | Condition | Score |
 | --- | --- |
@@ -32,12 +32,11 @@ The following GIF illustrates how the AI would evaluate this specific position f
 
 ![Scoring](/assets/Connect4/Connect4Scoring.gif)
 
-The following GIF shows how the AI (yellow piece) would pick the optimal move after red starts the game by placing a piece in the center. The circled boards are ones are pruned, meaning that there is no point in evaluating them.
-
-
+The next GIF shows how the AI (yellow piece) would pick the optimal move after red starts the game by placing a piece in the center. 
 
 ![Minimax](/assets/Connect4/Connect4GIF.gif)
 
+In the GIF, the circled boards are pruned, meaning there is no point in evaluating them because alpha is greater than beta.
 
 
 
