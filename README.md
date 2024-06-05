@@ -32,7 +32,7 @@ The following GIF illustrates how the AI would evaluate this specific position f
 
 ![Scoring](/assets/Connect4/Connect4Scoring.gif)
 
-The following GIF shows how the AI (yellow piece) would pick the optimal move after red starts the game by placing a piece in the center. The circled boards are ones are pruned, meaning that their is no point in evaluating them.
+The following GIF shows how the AI (yellow piece) would pick the optimal move after red starts the game by placing a piece in the center. The circled boards are ones are pruned, meaning that there is no point in evaluating them.
 
 
 
