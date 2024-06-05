@@ -1,7 +1,7 @@
 # Portfolio
 
 ### Education
-- Bachelor of Science, Statistics | Minnesota State University, Mankato (_May 2024_)
+- Bachelor of Science, Statistics | Minnesota State University, Mankato _(May 2024)_
   
 ### Projects
 #### Connect 4 Game
@@ -18,7 +18,7 @@ I created this application for my Dad's farming business. The application proces
 The code and more information can be found here: [Github Repository](https://github.com/Jakeh766/pigmaker-program)
 
 ### Work Experience
-Tutor | MNSU TRIO Student Support Services | Mankato, MN Oct 2023 – Apr 2024
+**Tutor | MNSU TRIO Student Support Services | Mankato, MN** _(Oct 2023 – Apr 2024)_
 - Conducted one-on-one tutoring sessions in mathematics and statistics for 10-15 students weekly, primarily
 assisting first-generation, disabled, and low-income college students
 - Applied diverse teaching methods and visual aids to engage students and enhance learning outcomes
@@ -26,13 +26,20 @@ assisting first-generation, disabled, and low-income college students
 
 ### Volunteering and Leadership
 
-#### Mavs in Action
-I served as the secretary for Mavs in Action, a student volunteer club at MNSU, from August 2023 - May 2024. During that time, I logged over **150** volunteer service hours, helped plan and lead weekly volunteering activities, and started a new campus-wide children's book drive initiative. I started planning the book drive in the fall of 2023. I first reached out to local community organizations to see who would accept children's books as donations. Then once I had organizations who were interested and expressed a need for books, I reached out to student groups on campus as well as faculty to start promoting the book drive. Along with the Mavs in Action leadership board, I helped organize a coordinated social media campaign to raise awareness of the book drive. I also helped manage the budget and logistics of storing and delivering the books. We ended up collecting over **300** books. As a result of my leadership efforts, I was selected to be on the Spring 2024 BEST Board.
+#### Mavs in Action 
+**Secretary | Minnesota State University | Mankato, MN** _(Aug 2023 - May 2024)_
+       
+I served as the secretary for Mavs in Action, a student volunteer club at MNSU from August 2023 to May 2024. During that time, I logged over **150** volunteer service hours, helped plan and lead weekly volunteering activities, and started a new campus-wide children's book drive initiative. I started planning the book drive in the fall of 2023. I first reached out to local community organizations to see who would accept children's books as donations. Then once I had organizations who were interested and expressed a need for books, I reached out to student groups on campus as well as faculty to start promoting the book drive. Along with the Mavs in Action leadership board, I helped organize a coordinated social media campaign to raise awareness of the book drive. I also helped manage the budget and logistics of storing and delivering the books. We ended up collecting over **300** books. As a result of my leadership efforts, I was selected to be on the Spring 2024 BEST Board.
 
-Media Publications:
+**Media Publications:**
 
 [BEST Board Blog Post](https://blog.mnsu.edu/csu/best-board-s24-jake-hauser-leads-march-book-drive-as-a-new-maverick-tradition/)
 
 [Student Newspaper Article about Mavs in Action](https://www.msureporter.com/2022/10/18/mavs-in-action-connects-with-mankato-community/)
+
+#### Campus Kitchen 
+**Data Analyst | Minnesota State University | Mankato, MN** _(Apr 2023 - Sep 2023)_                                                                                                                
+- Examined monthly food recovery and delivery trends with Excel and Python, creating visualizations to show the Campus Kitchen's impact on food insecurity
+- Communicated trends and findings to stakeholders, effectively supporting program funding efforts
 
 
