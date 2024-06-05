@@ -18,11 +18,13 @@ Further explanation and visual demonstrations can be found at my GitHub reposito
 #### Data Derby
 
 #### Handwritten Data Processing Application
-Created an application for processing and creating reports from handwritten data.
+## Pigmaker Program
+
+The Pigmaker Program processes scanned images of breeding and farrowing records to generate comprehensive reports. Users start by inputting relevant dates and group numbers, then uploading the breeding and farrowing record files. The program converts these files to PNG format and uses the AWS Textract API to extract tabular data, which is then converted into Pandas DataFrames for cleaning. Errors are highlighted in red for manual correction. After corrections, the program merges the Dataframes and generates a PDF report. Users can review the report and export the group's data to an Excel database. This efficient workflow ensures accurate and organized record-keeping for breeding and farrowing operations.
 
 The code and more information can be found here:
 
-[Github repo](https://github.com/Jakeh766/pigmaker-program)
+[Github Repository](https://github.com/Jakeh766/pigmaker-program)
 
 ### Work Experience
 Tutor | MNSU TRIO Student Support Services | Mankato, MN Oct 2023 – Apr 2024
