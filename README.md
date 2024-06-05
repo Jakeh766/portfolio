@@ -38,7 +38,11 @@ The next GIF shows how the AI (yellow piece) would pick the optimal move after r
 
 In the GIF, the circled boards are pruned, meaning there is no point in evaluating them because alpha is greater than beta.
 
+Inspiration for this project came from Keith Galli's Youtube series: [Youtube Series](https://www.youtube.com/playlist?list=PLFCB5Dp81iNV_inzM-R9AKkZZlePCZdtV)
 
+Additional resources for Minimax Algorithm:
+- [Sebastian Lague's Youtube Video](https://www.youtube.com/watch?v=l-hh51ncgDI)
+- [Wikipedia Page](https://en.wikipedia.org/wiki/Minimax)
 
 #### MUDAC
 
